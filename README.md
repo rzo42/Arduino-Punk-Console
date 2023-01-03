@@ -2,7 +2,10 @@
 Pulse width audio for the Arduino Uno R3
 Version:  B.2.3.1                                     
 By:  Ryan Liston                               
-ate: January 2,2023                                    
+ate: January 2,2023             
+
+Demo@: 
+https://youtu.be/38mRTtHOGIE                     
                                                                    
 "Fpot" @ A1 controls note frequency                          
 "WPot"  @ A0 comtrols pulse width                           
